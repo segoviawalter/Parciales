@@ -1,0 +1,116 @@
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\bin\Debug\SistemaSolar.exe.config
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\bin\Debug\SistemaSolar.exe
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\bin\Debug\SistemaSolar.pdb
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\bin\Debug\Entidades.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\bin\Debug\Entidades.pdb
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\obj\Debug\SistemaSolar.csprojAssemblyReference.cache
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\obj\Debug\SistemaSolar.Form1.resources
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\obj\Debug\SistemaSolar.Properties.Resources.resources
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\obj\Debug\SistemaSolar.csproj.GenerateResource.cache
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\obj\Debug\SistemaSolar.csproj.CoreCompileInputs.cache
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\obj\Debug\SistemaSolar.csproj.CopyComplete
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\obj\Debug\SistemaSolar.exe
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\obj\Debug\SistemaSolar.pdb
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\bin\Debug\DevExpress.Data.v17.1.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\bin\Debug\DevExpress.Utils.v17.1.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\bin\Debug\DevExpress.Data.v17.1.xml
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\bin\Debug\DevExpress.Utils.v17.1.xml
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019\SistemaSolar\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - copia\SistemaSolar\obj\Debug\SistemaSolar.csprojAssemblyReference.cache
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - copia\SistemaSolar\obj\Debug\SistemaSolar.FormSistemaSolar.resources
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - copia\SistemaSolar\obj\Debug\SistemaSolar.Properties.Resources.resources
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - copia\SistemaSolar\obj\Debug\SistemaSolar.csproj.GenerateResource.cache
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - copia\SistemaSolar\obj\Debug\SistemaSolar.csproj.CoreCompileInputs.cache
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - copia\SistemaSolar\obj\Debug\SistemaSolar.exe
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - copia\SistemaSolar\obj\Debug\SistemaSolar.pdb
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\obj\Debug\SistemaSolar.csprojAssemblyReference.cache
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\obj\Debug\SistemaSolar.FormSistemaSolar.resources
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\obj\Debug\SistemaSolar.Properties.Resources.resources
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\obj\Debug\SistemaSolar.csproj.GenerateResource.cache
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\obj\Debug\SistemaSolar.csproj.CoreCompileInputs.cache
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\obj\Debug\SistemaSolar.exe
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\obj\Debug\SistemaSolar.pdb
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\bin\Debug\SistemaSolar.exe.config
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\bin\Debug\SistemaSolar.exe
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\bin\Debug\SistemaSolar.pdb
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\bin\Debug\DevExpress.Data.v17.1.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\bin\Debug\DevExpress.Utils.v17.1.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\bin\Debug\DevExpress.Data.v17.1.xml
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\bin\Debug\DevExpress.Utils.v17.1.xml
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - Cascara\SistemaSolar\obj\Debug\SistemaSolar.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\SP_2019 - Cascara\SP_2019 - Cascara\SistemaSolar\bin\Debug\SistemaSolar.exe.config
+C:\Users\LENOVO\Desktop\SP_2019 - Cascara\SP_2019 - Cascara\SistemaSolar\bin\Debug\SistemaSolar.exe
+C:\Users\LENOVO\Desktop\SP_2019 - Cascara\SP_2019 - Cascara\SistemaSolar\bin\Debug\SistemaSolar.pdb
+C:\Users\LENOVO\Desktop\SP_2019 - Cascara\SP_2019 - Cascara\SistemaSolar\bin\Debug\Entidades.dll
+C:\Users\LENOVO\Desktop\SP_2019 - Cascara\SP_2019 - Cascara\SistemaSolar\bin\Debug\Entidades.pdb
+C:\Users\LENOVO\Desktop\SP_2019 - Cascara\SP_2019 - Cascara\SistemaSolar\obj\Debug\SistemaSolar.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\SP_2019 - Cascara\SP_2019 - Cascara\SistemaSolar\obj\Debug\SistemaSolar.FormSistemaSolar.resources
+C:\Users\LENOVO\Desktop\SP_2019 - Cascara\SP_2019 - Cascara\SistemaSolar\obj\Debug\SistemaSolar.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\SP_2019 - Cascara\SP_2019 - Cascara\SistemaSolar\obj\Debug\SistemaSolar.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\SP_2019 - Cascara\SP_2019 - Cascara\SistemaSolar\obj\Debug\SistemaSolar.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\SP_2019 - Cascara\SP_2019 - Cascara\SistemaSolar\obj\Debug\SistemaSolar.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\SP_2019 - Cascara\SP_2019 - Cascara\SistemaSolar\obj\Debug\SistemaSolar.exe
+C:\Users\LENOVO\Desktop\SP_2019 - Cascara\SP_2019 - Cascara\SistemaSolar\obj\Debug\SistemaSolar.pdb

@@ -1,0 +1,26 @@
+C:\Users\alumno\Desktop\Labo2PP\Entidades\bin\Debug\Entidades.dll
+C:\Users\alumno\Desktop\Labo2PP\Entidades\bin\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\Labo2PP\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Labo2PP\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Labo2PP\Entidades\obj\Debug\Entidades.dll
+C:\Users\alumno\Desktop\Labo2PP\Entidades\obj\Debug\Entidades.pdb
+C:\Users\LENOVO\Desktop\Olivieri.Tomas 2019\Labo2PP\Entidades\bin\Debug\Entidades.dll
+C:\Users\LENOVO\Desktop\Olivieri.Tomas 2019\Labo2PP\Entidades\bin\Debug\Entidades.pdb
+C:\Users\LENOVO\Desktop\Olivieri.Tomas 2019\Labo2PP\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Olivieri.Tomas 2019\Labo2PP\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Olivieri.Tomas 2019\Labo2PP\Entidades\obj\Debug\Entidades.dll
+C:\Users\LENOVO\Desktop\Olivieri.Tomas 2019\Labo2PP\Entidades\obj\Debug\Entidades.pdb
+\\DESKTOP-E0B40E5\Compartido\SP_2019\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+\\DESKTOP-E0B40E5\Compartido\SP_2019\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+\\DESKTOP-E0B40E5\Compartido\SP_2019\Entidades\obj\Debug\Entidades.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019\Entidades\obj\Debug\Entidades.pdb
+\\DESKTOP-E0B40E5\Compartido\SP_2019\Entidades\bin\Debug\Entidades.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019\Entidades\bin\Debug\Entidades.pdb
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - copia\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - copia\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - copia\Entidades\obj\Debug\Entidades.dll
+\\DESKTOP-E0B40E5\Compartido\SP_2019 - copia\Entidades\obj\Debug\Entidades.pdb
+C:\Users\LENOVO\Desktop\SP_2019 - Cascara\SP_2019 - Cascara\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\SP_2019 - Cascara\SP_2019 - Cascara\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\SP_2019 - Cascara\SP_2019 - Cascara\Entidades\obj\Debug\Entidades.dll
+C:\Users\LENOVO\Desktop\SP_2019 - Cascara\SP_2019 - Cascara\Entidades\obj\Debug\Entidades.pdb
